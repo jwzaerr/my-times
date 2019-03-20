@@ -1,3 +1,3 @@
-# my-times
+# My Times
 
-practice website - flex box
+project webpage
